@@ -1,8 +1,8 @@
 name: ArmorCode
 
 env:
-  product: test_pro
-  subProduct: testGAC2
+  product: Varsha
+  subProduct: Check
   environment: Production
   token: ${{secrets.ARMORCODE_TOKEN}}
   buildTool: GITHUB_ACTIONS
