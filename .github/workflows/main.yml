@@ -2,7 +2,7 @@ name: ArmorCode
 
 env:
   product: test_pro
-  subProduct: test444
+  subProduct: testGAC2
   environment: Production
   token: ${{secrets.ARMORCODE_TOKEN}}
   buildTool: GITHUB_ACTIONS
