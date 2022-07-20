@@ -1,8 +1,8 @@
 name: ArmorCode
 
 env:
-  product: Varsha
-  subProduct: Check
+  product: Github actions
+  subProduct: Action
   environment: Production
   token: ${{secrets.ARMORCODE_TOKEN}}
   buildTool: GITHUB_ACTIONS
